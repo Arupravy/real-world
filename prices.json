@@ -1,0 +1,38 @@
+[
+    {
+        "timestamp": "2025-03-20 03:10:47",
+        "symbol": "BTCUSDT",
+        "source": "binance",
+        "price": 85680.3
+    },
+    {
+        "timestamp": "2025-03-20 03:10:48",
+        "symbol": "BTCUSDT",
+        "source": "coingecko",
+        "price": 85759.0
+    },
+    {
+        "timestamp": "2025-03-20 03:10:48",
+        "symbol": "BTCUSDT",
+        "source": "coinbase",
+        "price": 85724.635
+    },
+    {
+        "timestamp": "2025-03-20 03:19:59",
+        "symbol": "BTCUSDT",
+        "source": "binance",
+        "price": 85631.68
+    },
+    {
+        "timestamp": "2025-03-20 03:19:59",
+        "symbol": "BTCUSDT",
+        "source": "coingecko",
+        "price": 85624.0
+    },
+    {
+        "timestamp": "2025-03-20 03:20:00",
+        "symbol": "BTCUSDT",
+        "source": "coinbase",
+        "price": 85637.995
+    }
+]
